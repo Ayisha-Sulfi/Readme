@@ -7,17 +7,35 @@ Welcome to my GitHub profile! I'm a **BCA graduate** with a passion for programm
 ## 💻 About Me  
 - 🎓 **Education**: Bachelor of Computer Applications (BCA)  
 - 🌟 **Skills**:  
-  - **Programming Languages**: C, C++, Python, Java, JavaScript  
-  - **Web Development**: HTML, CSS  
+  - **Programming Languages**:  
+    ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+    ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+  - **Web Development**:  
+    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+
 - 🚀 Currently exploring advanced concepts in software development and web technologies.  
 
 ---
 
 ## 🔧 Tools and Technologies  
-- **IDEs/Editors**: Visual Studio Code, IntelliJ IDEA, PyCharm  
-- **Version Control**: Git & GitHub  
-- **Database**: MySQL  
-- **Frameworks/Libraries**: React (learning stage)
+- **IDEs/Editors**:  
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)  
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
+
+- **Version Control**:  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+
+- **Database**:  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+
+- **Frameworks/Libraries**:  
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) (learning stage)
 
 ---
 

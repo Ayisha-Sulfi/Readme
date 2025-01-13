@@ -1,59 +1,83 @@
-# Hi there! 👋 I'm Ayisha Sulfi  
+<div align="center">
+  
+# 👋 Hello World, I'm Ayisha Sulfi!
 
-Welcome to my GitHub profile! I'm a **BCA graduate** with a passion for programming, problem-solving, and creating impactful projects. I enjoy exploring new technologies and continuously improving my skills.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=BCA+Graduate;Full+Stack+Developer+in+Making;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+</div>
+
+## 🎯 Quick Facts About Me
+```python
+class AyishaSulfi:
+    def __init__(self):
+        self.role = "BCA Graduate"
+        self.coding_experience = ["Python", "Java", "C++", "JavaScript"]
+        self.current_focus = "Full Stack Development"
+        self.fun_fact = "I believe in clean code and cleaner coffee ☕"
+```
+
+## 💫 Journey So Far
+- 🎓 Graduated with a **Bachelor's in Computer Applications**
+- 💻 Passionate about turning ideas into code
+- 🌱 Currently exploring the vast world of web development
+- ⚡ Always excited to collaborate on innovative projects
+
+## 🛠️ Tech Arsenal
+
+### Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+### Web Technologies
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+
+### Tools & Platforms
+<div align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayisha-sulfi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayisha-sulfi&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🌟 Current Focus
+- 🔨 Building a portfolio of web applications
+- 📚 Mastering React.js and its ecosystem
+- 🎯 Contributing to open-source projects
+- 💡 Exploring new technologies and best practices
+
+## 🤝 Let's Connect!
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  
+### 💭 *"The only way to do great work is to love what you do"* - Steve Jobs
+
+</div>
 
 ---
-
-## 💻 About Me  
-- 🎓 **Education**: Bachelor of Computer Applications (BCA)  
-- 🌟 **Skills**:  
-  - **Programming Languages**:  
-    ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
-    ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-    ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  - **Web Development**:  
-    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-    ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-
-- 🚀 Currently exploring advanced concepts in software development and web technologies.  
-
----
-
-## 🔧 Tools and Technologies  
-- **IDEs/Editors**:  
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)  
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
-
-- **Version Control**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-
-- **Database**:  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-
-- **Frameworks/Libraries**:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) (learning stage)
-
----
-
-## 🌱 What I'm Working On  
-- Building creative web projects.  
-- Sharpening my problem-solving skills in Python and C++.  
-- Exploring full-stack development and modern frameworks.  
-
----
-
-## 📈 GitHub Stats  
-![Ayisha Sulfi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayisha-sulfi&show_icons=true&theme=radical)  
-
----
-
-## 📫 Let's Connect  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **Portfolio**: [Your Portfolio](https://your-portfolio.com)  
-
-Feel free to check out my repositories and contribute to my projects! 🌟  
+<div align="center">
+  <i>Happy Coding! Feel free to drop a ⭐ on my repositories if you find them interesting!</i>
+</div>
